@@ -23,7 +23,7 @@ I´m always ***open to new opportunities*** and ***connecting with different peo
 
 Just say hi and I´ll get in touch asap!!! :grin:	
 
-[![Linkedin: federicobencini](https://img.shields.io/badge/-federicobencini-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/federicobencini/)](www.linkedin.com/in/federicobencini/)
+[![Linkedin: federicobencini](https://img.shields.io/badge/-federicobencini-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/federicobencini/)](https://www.linkedin.com/in/federicobencini/)
 [![GitHub FedeBencini](https://img.shields.io/github/followers/FedeBencini?label=follow&style=social)](https://github.com/FedeBencini)
 
 
